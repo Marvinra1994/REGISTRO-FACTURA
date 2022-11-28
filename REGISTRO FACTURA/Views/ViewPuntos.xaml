@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local1="clr-namespace:REGISTRO_FACTURA.ViewModels"
+             x:Class="REGISTRO_FACTURA.Views.ViewPuntos">
+
+    <ContentPage.BindingContext>
+        <local1:CalculoPuntosViewModels></local1:CalculoPuntosViewModels>
+    </ContentPage.BindingContext>
+
+    <StackLayout>
+        <Label Text="Ingrese su nombre" FontSize="18" BackgroundColor="Blue" TextColor="White" />
+        <Entry Text="{Binding Nombre}" Keyboard="Text" ></Entry>
+        <Label Text="Fecha de Factura" FontSize="18"  BackgroundColor="Blue" TextColor="White"/>
+        <Entry Text="{Binding Fecha_Factura}" Keyboard="Text" ></Entry>
+        <Label Text="Monto" FontSize="18" BackgroundColor="Blue" TextColor="White" />
+        <Entry Text="{Binding Monto}" Keyboard="Numeric" ></Entry>
+        <Label Text="Metodo de Pago" FontSize="18" BackgroundColor="Blue" TextColor="White" />
+        <Entry Text="{Binding MetodoPago}" Keyboard="Text" ></Entry>
+        <Label Text="Tipo de factura" FontSize="18" BackgroundColor="Blue" TextColor="White" />
+        <Entry Text="{Binding Tipo_Factura}" Keyboard="Text" ></Entry>
+
+        <Button Command="{Binding CrearPuntos}" Text="Crear Puntos" />
+        <Button Command="{Binding AbrirLista}" Text="Abrir Lista"/>
+        <Button Command="{Binding LimpiarLista}" Text="Limpiar Lista"/>
+
+        <Label Text="{Binding Resultado}" FontSize="25"/>
+    </StackLayout>
+</ContentPage>

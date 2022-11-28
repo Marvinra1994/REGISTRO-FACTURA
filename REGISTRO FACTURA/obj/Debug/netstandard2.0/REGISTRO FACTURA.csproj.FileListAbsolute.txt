@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\REGISTRO FACTURA.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\REGISTRO FACTURA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\Views\ViewPuntos.xaml.g.cs
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\REGISTRO FACTURA.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\REGISTRO FACTURA.AssemblyInfo.cs
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\REGISTRO FACTURA.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\bin\Debug\netstandard2.0\REGISTRO FACTURA.deps.json
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\bin\Debug\netstandard2.0\REGISTRO FACTURA.dll
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\bin\Debug\netstandard2.0\REGISTRO FACTURA.pdb
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\REGISTRO FACTURA.dll
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\refint\REGISTRO FACTURA.dll
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\REGISTRO FACTURA.pdb
+C:\Users\DELL\source\repos\REGISTRO FACTURA\REGISTRO FACTURA\obj\Debug\netstandard2.0\ref\REGISTRO FACTURA.dll
