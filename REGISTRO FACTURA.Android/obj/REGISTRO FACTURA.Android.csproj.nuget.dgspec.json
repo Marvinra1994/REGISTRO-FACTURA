@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\REGISTRO FACTURA\\REGISTRO FACTURA.Android\\REGISTRO FACTURA.Android.csproj": {}
+    "C:\\Users\\DELL\\Documents\\GitHub\\REGISTRO-FACTURA\\REGISTRO FACTURA.Android\\REGISTRO FACTURA.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\REGISTRO FACTURA\\REGISTRO FACTURA.Android\\REGISTRO FACTURA.Android.csproj": {
+    "C:\\Users\\DELL\\Documents\\GitHub\\REGISTRO-FACTURA\\REGISTRO FACTURA.Android\\REGISTRO FACTURA.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\REGISTRO FACTURA\\REGISTRO FACTURA.Android\\REGISTRO FACTURA.Android.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\GitHub\\REGISTRO-FACTURA\\REGISTRO FACTURA.Android\\REGISTRO FACTURA.Android.csproj",
         "projectName": "REGISTRO FACTURA.Android",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\REGISTRO FACTURA\\REGISTRO FACTURA.Android\\REGISTRO FACTURA.Android.csproj",
+        "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\REGISTRO-FACTURA\\REGISTRO FACTURA.Android\\REGISTRO FACTURA.Android.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\REGISTRO FACTURA\\REGISTRO FACTURA.Android\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\GitHub\\REGISTRO-FACTURA\\REGISTRO FACTURA.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid12.0": {
             "projectReferences": {
-              "C:\\Users\\DELL\\source\\repos\\REGISTRO FACTURA\\REGISTRO FACTURA\\REGISTRO FACTURA.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\REGISTRO FACTURA\\REGISTRO FACTURA\\REGISTRO FACTURA.csproj"
+              "C:\\Users\\DELL\\Documents\\GitHub\\REGISTRO-FACTURA\\REGISTRO FACTURA\\REGISTRO FACTURA.csproj": {
+                "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\REGISTRO-FACTURA\\REGISTRO FACTURA\\REGISTRO FACTURA.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\DELL\\source\\repos\\REGISTRO FACTURA\\REGISTRO FACTURA\\REGISTRO FACTURA.csproj": {
+    "C:\\Users\\DELL\\Documents\\GitHub\\REGISTRO-FACTURA\\REGISTRO FACTURA\\REGISTRO FACTURA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\REGISTRO FACTURA\\REGISTRO FACTURA\\REGISTRO FACTURA.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Documents\\GitHub\\REGISTRO-FACTURA\\REGISTRO FACTURA\\REGISTRO FACTURA.csproj",
         "projectName": "REGISTRO FACTURA",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\REGISTRO FACTURA\\REGISTRO FACTURA\\REGISTRO FACTURA.csproj",
+        "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\REGISTRO-FACTURA\\REGISTRO FACTURA\\REGISTRO FACTURA.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\REGISTRO FACTURA\\REGISTRO FACTURA\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Documents\\GitHub\\REGISTRO-FACTURA\\REGISTRO FACTURA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

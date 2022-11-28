@@ -9,15 +9,15 @@
     </ContentPage.BindingContext>
 
     <StackLayout>
-        <Label Text="Ingrese su nombre" FontSize="18" BackgroundColor="Blue" TextColor="White" />
+        <Label Text="Ingrese su nombre" FontSize="18" BackgroundColor="DarkSeaGreen"  />
         <Entry Text="{Binding Nombre}" Keyboard="Text" ></Entry>
-        <Label Text="Fecha de Factura" FontSize="18"  BackgroundColor="Blue" TextColor="White"/>
+        <Label Text="Fecha de Factura" FontSize="18" BackgroundColor="DarkSeaGreen"  />
         <Entry Text="{Binding Fecha_Factura}" Keyboard="Text" ></Entry>
-        <Label Text="Monto" FontSize="18" BackgroundColor="Blue" TextColor="White" />
+        <Label Text="Monto" FontSize="18" BackgroundColor="DarkSeaGreen" />
         <Entry Text="{Binding Monto}" Keyboard="Numeric" ></Entry>
-        <Label Text="Metodo de Pago" FontSize="18" BackgroundColor="Blue" TextColor="White" />
+        <Label Text="Metodo de Pago" FontSize="18" BackgroundColor="DarkSeaGreen" />
         <Entry Text="{Binding MetodoPago}" Keyboard="Text" ></Entry>
-        <Label Text="Tipo de factura" FontSize="18" BackgroundColor="Blue" TextColor="White" />
+        <Label Text="Tipo de factura" FontSize="18" BackgroundColor="DarkSeaGreen" />
         <Entry Text="{Binding Tipo_Factura}" Keyboard="Text" ></Entry>
 
         <Button Command="{Binding CrearPuntos}" Text="Crear Puntos" />

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nWm25jCSIpY72XA2Oqb17xck+4yt68H6Z9Zr9iYftwxhnFkYZ6RQgXuBmPSVS0UvXHoRFG9smosq3fp4remRvQ==",
+  "dgSpecHash": "fYjf2S2wM6CQgHrzDJWq7GSNHtoSS4GtHRXbSXeq5ZG9gDsgTIUDMAwBHgBPNTGnO368TeVkDuGs/+QJvmNsCQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\source\\repos\\REGISTRO FACTURA\\REGISTRO FACTURA.Android\\REGISTRO FACTURA.Android.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\GitHub\\REGISTRO-FACTURA\\REGISTRO FACTURA.Android\\REGISTRO FACTURA.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
